@@ -1,2 +1,0 @@
-# Chrono-Cube
-Cube timer
